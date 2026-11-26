@@ -30,6 +30,10 @@ Portfólio pessoal desenvolvido como atividade prática de HTML5, CSS3 e JavaScr
 - `script.js` — interações da página.
 - `README.md` — documentação do projeto.
 
+🌐 **Acesse meu portfólio online:**
+
+[Conheça meu portfólio — Cristiana Bessa](https://cristianasantos1520-blip.github.io/Portfolio-Cristiana/)
+
 ## Autora
 
 **Cristiana Bessa**
